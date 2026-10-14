@@ -1,0 +1,77 @@
+프로필 사진 넣는 법
+- 아래 [묶음]을 하나씩 통째로 복사해서 제미나이에 붙여 넣는다 (구분선 ===== 은 빼고)
+- 나온 사진을 번호대로 이 폴더(images)에 저장: 1.jpg, 2.jpg ... 24.jpg  (png도 됨)
+- 한 장에 여러 명이 합쳐져 나오면 그 묶음만 다시 요청
+- 내 사진은 0.jpg / 사진이 없는 사람은 일러스트가 그대로 나온다
+
+
+===== [묶음 1] 1~3번 =====
+아래 3명의 이미지를 각각 별도의 사진으로 1장씩, 총 3장 만들어줘. 한 장에 여러 명을 합치지 마.
+공통: Photorealistic dating app profile photo, upper body portrait, looking at the camera, soft natural daylight, shallow depth of field, 3:4 vertical
+
+1번: Korean woman age 27, innocent natural look, long straight black hair, white blouse, light natural makeup, gentle smile, cafe background
+2번: Korean man age 29, dandy neat look, side-parted short hair, navy jacket over white shirt, city street background
+3번: Korean woman age 25, cute bright smile, brown bob hair, yellow knit sweater, park background
+
+
+===== [묶음 2] 4~6번 =====
+아래 3명의 이미지를 각각 별도의 사진으로 1장씩, 총 3장 만들어줘. 한 장에 여러 명을 합치지 마.
+공통: Photorealistic dating app profile photo, upper body portrait, looking at the camera, soft natural daylight, shallow depth of field, 3:4 vertical
+
+4번: Korean man age 32, athletic look, buzz cut, green sports jacket, outdoor field background
+5번: Korean woman age 30, chic cool expression, long sleek black hair, black outfit, gallery background
+6번: Korean man age 26, casual look, curly permed hair, light blue hoodie, friendly smile, street background
+
+
+===== [묶음 3] 7~9번 =====
+아래 3명의 이미지를 각각 별도의 사진으로 1장씩, 총 3장 만들어줘. 한 장에 여러 명을 합치지 마.
+공통: Photorealistic dating app profile photo, upper body portrait, looking at the camera, soft natural daylight, shallow depth of field, 3:4 vertical
+
+7번: Korean woman age 28, lovely warm smile, wavy brown long hair, pink cardigan, flower shop background
+8번: Korean man age 31, intellectual look, two-block haircut, round glasses, beige knit, bookstore background
+9번: Korean woman age 24, chic cool look, long black hair, black leather jacket, night city background
+
+
+===== [묶음 4] 10~12번 =====
+아래 3명의 이미지를 각각 별도의 사진으로 1장씩, 총 3장 만들어줘. 한 장에 여러 명을 합치지 마.
+공통: Photorealistic dating app profile photo, upper body portrait, looking at the camera, soft natural daylight, shallow depth of field, 3:4 vertical
+
+10번: Korean man age 28, dandy look, pompadour hairstyle, charcoal suit, rooftop background
+11번: Korean woman age 26, cute playful smile, brown bob hair, yellow t-shirt, beach background
+12번: Korean man age 34, sturdy reliable look, broad shoulders, short neat hair, olive green jacket, camping background
+
+
+===== [묶음 5] 13~15번 =====
+아래 3명의 이미지를 각각 별도의 사진으로 1장씩, 총 3장 만들어줘. 한 장에 여러 명을 합치지 마.
+공통: Photorealistic dating app profile photo, upper body portrait, looking at the camera, soft natural daylight, shallow depth of field, 3:4 vertical
+
+13번: Korean woman age 29, sophisticated elegant look, long brown hair, burgundy blouse, gold earrings, wine bar background
+14번: Korean man age 27, cute soft look, mushroom bowl-cut hair, yellow sweater, cafe background
+15번: Korean woman age 31, innocent natural look, long straight black hair, white knit, holding a book, library background
+
+
+===== [묶음 6] 16~18번 =====
+아래 3명의 이미지를 각각 별도의 사진으로 1장씩, 총 3장 만들어줘. 한 장에 여러 명을 합치지 마.
+공통: Photorealistic dating app profile photo, upper body portrait, looking at the camera, soft natural daylight, shallow depth of field, 3:4 vertical
+
+16번: Korean man age 30, athletic tall look, spiky short hair, green basketball jersey, court background
+17번: Korean woman age 23, lovely bright smile, wavy brown hair, pink dress, cafe background
+18번: Korean man age 33, intellectual calm look, short neat hair, round glasses, brown knit, mountain trail background
+
+
+===== [묶음 7] 19~21번 =====
+아래 3명의 이미지를 각각 별도의 사진으로 1장씩, 총 3장 만들어줘. 한 장에 여러 명을 합치지 마.
+공통: Photorealistic dating app profile photo, upper body portrait, looking at the camera, soft natural daylight, shallow depth of field, 3:4 vertical
+
+19번: Korean woman age 27, casual relaxed look, long brown hair, light blue denim shirt, art studio background
+20번: Korean man age 25, casual look, two-block haircut, light blue hoodie, board game cafe background
+21번: Korean woman age 32, sophisticated elegant look, long dark hair, burgundy blazer, gold earrings, golf course background
+
+
+===== [묶음 8] 22~24번 =====
+아래 3명의 이미지를 각각 별도의 사진으로 1장씩, 총 3장 만들어줘. 한 장에 여러 명을 합치지 마.
+공통: Photorealistic dating app profile photo, upper body portrait, looking at the camera, soft natural daylight, shallow depth of field, 3:4 vertical
+
+22번: Korean man age 29, soft innocent look, mushroom cut hair, white shirt, bakery background
+23번: Korean woman age 26, athletic healthy look, brown bob hair, green sportswear, surf beach background
+24번: Korean man age 28, sturdy reliable look, broad shoulders, buzz cut, green outdoor jacket, lakeside fishing background

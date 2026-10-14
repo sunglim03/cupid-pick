@@ -1,0 +1,28 @@
+// 가상 프로필 저장소 (24명)
+// 항목: 이름, 성별, 나이, 키(cm), 외모 스타일, 연봉(만원), 종교, 지역, MBTI, 흡연, 관심사
+const PROFILES = [
+  { id: 1,  name: "김서연", gender: "여", age: 27, height: 163, style: "청순",   salary: 3800, religion: "무교",   region: "서울", mbti: "ENFP", smoke: false, interests: ["여행", "카페", "사진"] },
+  { id: 2,  name: "이준호", gender: "남", age: 29, height: 178, style: "댄디",   salary: 4500, religion: "무교",   region: "서울", mbti: "ISTJ", smoke: false, interests: ["헬스", "등산", "요리"] },
+  { id: 3,  name: "박지민", gender: "여", age: 25, height: 158, style: "귀여움", salary: 3200, religion: "기독교", region: "경기", mbti: "ISFJ", smoke: false, interests: ["영화", "독서", "베이킹"] },
+  { id: 4,  name: "최민수", gender: "남", age: 32, height: 175, style: "스포티", salary: 5200, religion: "불교",   region: "부산", mbti: "ESTP", smoke: true,  interests: ["축구", "캠핑", "낚시"] },
+  { id: 5,  name: "정하은", gender: "여", age: 30, height: 167, style: "시크",   salary: 4800, religion: "무교",   region: "서울", mbti: "INTJ", smoke: false, interests: ["전시회", "와인", "독서"] },
+  { id: 6,  name: "강도윤", gender: "남", age: 26, height: 182, style: "캐주얼", salary: 3500, religion: "무교",   region: "인천", mbti: "ENFJ", smoke: false, interests: ["게임", "영화", "여행"] },
+  { id: 7,  name: "윤채원", gender: "여", age: 28, height: 161, style: "러블리", salary: 3600, religion: "천주교", region: "경기", mbti: "ESFJ", smoke: false, interests: ["요리", "카페", "반려동물"] },
+  { id: 8,  name: "임태현", gender: "남", age: 31, height: 173, style: "지적",   salary: 6000, religion: "기독교", region: "서울", mbti: "INTP", smoke: false, interests: ["독서", "코딩", "보드게임"] },
+  { id: 9,  name: "한소희", gender: "여", age: 24, height: 165, style: "시크",   salary: 2900, religion: "무교",   region: "대구", mbti: "ISTP", smoke: true,  interests: ["음악", "패션", "드라이브"] },
+  { id: 10, name: "오승우", gender: "남", age: 28, height: 176, style: "댄디",   salary: 4200, religion: "무교",   region: "경기", mbti: "ENTJ", smoke: false, interests: ["헬스", "와인", "여행"] },
+  { id: 11, name: "신유나", gender: "여", age: 26, height: 160, style: "귀여움", salary: 3300, religion: "불교",   region: "부산", mbti: "ENFP", smoke: false, interests: ["노래방", "여행", "맛집"] },
+  { id: 12, name: "조현우", gender: "남", age: 34, height: 180, style: "듬직",   salary: 7000, religion: "무교",   region: "서울", mbti: "ESTJ", smoke: false, interests: ["골프", "캠핑", "요리"] },
+  { id: 13, name: "배수아", gender: "여", age: 29, height: 170, style: "세련",   salary: 5000, religion: "기독교", region: "서울", mbti: "ENTJ", smoke: false, interests: ["필라테스", "와인", "전시회"] },
+  { id: 14, name: "류재민", gender: "남", age: 27, height: 171, style: "귀여움", salary: 3400, religion: "천주교", region: "대전", mbti: "INFP", smoke: false, interests: ["그림", "음악", "카페"] },
+  { id: 15, name: "송다인", gender: "여", age: 31, height: 164, style: "청순",   salary: 4400, religion: "무교",   region: "경기", mbti: "INFJ", smoke: false, interests: ["독서", "요가", "반려동물"] },
+  { id: 16, name: "홍지훈", gender: "남", age: 30, height: 185, style: "스포티", salary: 4700, religion: "무교",   region: "서울", mbti: "ESFP", smoke: true,  interests: ["농구", "헬스", "맛집"] },
+  { id: 17, name: "문예린", gender: "여", age: 23, height: 157, style: "러블리", salary: 2600, religion: "무교",   region: "인천", mbti: "ESFP", smoke: false, interests: ["아이돌", "카페", "사진"] },
+  { id: 18, name: "장우진", gender: "남", age: 33, height: 174, style: "지적",   salary: 5800, religion: "불교",   region: "대구", mbti: "ISTJ", smoke: false, interests: ["등산", "독서", "바둑"] },
+  { id: 19, name: "권나연", gender: "여", age: 27, height: 166, style: "캐주얼", salary: 3700, religion: "천주교", region: "대전", mbti: "ISFP", smoke: false, interests: ["그림", "여행", "캠핑"] },
+  { id: 20, name: "황민재", gender: "남", age: 25, height: 179, style: "캐주얼", salary: 3000, religion: "무교",   region: "경기", mbti: "ENTP", smoke: false, interests: ["게임", "보드게임", "코딩"] },
+  { id: 21, name: "서지아", gender: "여", age: 32, height: 162, style: "세련",   salary: 6200, religion: "무교",   region: "서울", mbti: "ESTJ", smoke: false, interests: ["골프", "와인", "여행"] },
+  { id: 22, name: "남궁현", gender: "남", age: 29, height: 172, style: "청순",   salary: 3900, religion: "기독교", region: "경기", mbti: "ISFJ", smoke: false, interests: ["베이킹", "영화", "반려동물"] },
+  { id: 23, name: "유하린", gender: "여", age: 26, height: 168, style: "스포티", salary: 3500, religion: "무교",   region: "부산", mbti: "ESTP", smoke: false, interests: ["서핑", "헬스", "맛집"] },
+  { id: 24, name: "전성민", gender: "남", age: 28, height: 177, style: "듬직",   salary: 4100, religion: "무교",   region: "인천", mbti: "ISFP", smoke: false, interests: ["낚시", "캠핑", "드라이브"] },
+];
